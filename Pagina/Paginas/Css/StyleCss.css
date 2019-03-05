@@ -1,0 +1,213 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+p{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-stretch:70%;
+}
+
+.Header1{
+	font-size:50px;
+	Color:rgba(107,165,152,1);
+	margin-bottom:0px;
+}
+
+#productprice{
+	color:rgba(1,178,204,1);
+	font-size:40px !important;
+	
+}
+
+body{
+background-color:rgba(223,223,223,1);
+margin: 0px;
+}
+
+
+
+.divs{
+	float:left;
+	height:100%;
+}
+
+.inputypes{
+	border-radius:5px;
+	box-shadow:none;
+	border:1px;
+	float:left;
+	margin-top:7px;
+	margin-left:10px;
+	height:30%;
+}
+
+.selectgroup{
+	border-radius:3px;
+	float:left;
+	margin-left:2%;
+	margin-top:7px;
+	width:20%;
+	height:31%;
+	border-width:0px;
+	color:rgba(0,0,0,.5);
+}
+
+.dategroup{
+	float:left;
+	border-width:0px;
+	color:rgba(0,0,0,.5);
+	margin-left:2%;
+	margin-top:7px;
+	width:20%;
+	height:31%;
+}
+
+.submit{
+	border-width:0px;
+	color:rgba(0,0,0,.5);
+	float:left;
+	margin-top:7px;
+	width:20%;
+	height:31%;
+	background-color:rgba(107,165,152,1);
+	color:rgba(255,255,255,1);
+	font-size:20px;
+}
+
+#content{
+	background-color:rgba(255,0,0,.0);
+	margin-top:10%;
+	margin-left:0px;
+	left:0%;
+	position:absolute;
+	width:100%;
+	height:100%;
+}
+
+.buttonCategoryes{
+	
+	background-color:rgba(0,0,0,0);
+	border-color:rgba(51,255,51,0);
+	color:rgba(255,255,255,1);
+	font-size:30px;
+	width:100%;
+	margin-top:10px;
+	
+}
+
+#menuleftbar{
+	width:20%;
+	height:60%;
+	margin:1%;
+	background-color:rgba(103,124,139,1);
+	border-radius:10px;
+	margin-left:-6px;
+	float:left;
+}
+
+#centerbar{
+	width:50%;
+	height:60%;
+	margin:1%;
+	background-color:rgba(255,255,255,1);
+	float:left;
+	
+}
+
+#LogINUP{
+	margin-left:5%;
+	width:20%;
+	height:auto;
+	float:left;
+	background-color:rgba(235,235,235,1);
+	border-style:solid;
+	border-width:1px;
+	border-color:rgba(204,204,204,1);
+}
+
+.FieldsLogINUP{
+	border-radius:2px;
+	box-shadow:none;
+	border-color:rgba(183,183,183,1);
+	margin-left:10%;
+	height:30px;
+	width:80%;
+	float:left;
+	margin-bottom:5%;
+	border-style:solid;
+	border-width:1px;
+}
+
+#LogInButton{
+	border-width:0px;
+	color:rgba(0,0,0,.5);
+	margin-top:7px;
+	width:90%;
+	height:31%;
+	background-color:rgba(103,124,139,1);
+	color:rgba(255,255,255,1);
+	font-size:150%;
+}
+
+#LogUpButton{
+	border-width:0px;
+	color:rgba(107,165,152,1);
+	margin-top:7px;
+	width:70%;
+	background-color:rgba(107,165,152,1);
+	color:rgba(255,255,255,1);
+	font-size:150%;
+	float:left;
+	margin-left:15%;
+	margin-right:5%;
+}
+
+
+.Sponsors{
+	width:20%;
+	margin-left:18%;
+	height:auto;
+	float:left;
+	background-color:rgba(235,0,0,.0);
+}
+
+.UserSpace{
+	float:left; 
+	width:24%; 
+	margin-top:1.5%;
+}
+
+.editButton{
+	border-width:0px;
+	color:rgba(255,255,255,1);
+	background-color:rgba(107,165,152,1);
+	font-size:150%;
+	margin-left:15%;
+	margin-right:5%;
+	display:bloci;
+	margin-left:0px;
+	
+}
+
+.contwrittingButton{
+	border-width:0px;
+	color:rgba(255,255,255,1);
+	background-color:rgba(103,124,139,1);
+	font-size:150%;
+	margin-left:15%;
+	margin-right:5%;
+	display:bloci;
+	margin-left:0px;
+	
+}
+
+.deleteButton{
+	border-width:0px;
+	color:rgba(255,255,255,1);
+	background-color:rgba(255,2,2,1);
+	font-size:150%;
+	margin-left:15%;
+	margin-right:5%;
+	display:bloci;
+	margin-left:0px;
+}
